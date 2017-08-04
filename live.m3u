@@ -24,8 +24,6 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1,Jasmin
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream playpath=sd.jasminchannel.stream swfUrl=http://flash.dditscdn.com/jsm2/3316/memberapplet/wowza/memberapplet.swf live=1 pageUrl=http://jasmin.com/pt/girl
-#EXTINF:-1,Brazzer Europe
-http://inetcom.tv/get_channel.php?id=280
 #EXTINF:-1,dp
 http://62.210.113.177:19000/udp/238.0.100.6:5000
 #EXTINF:-1,Русская ночь
@@ -34,10 +32,6 @@ http://78.111.176.132:8082
 http://84.243.221.164:8000/play/a019
 #EXTINF:-1,PASSIONXXX
 http://84.243.221.164:8000/play/a00e
-#EXTINF:-1,Hustler HD
-http://84.243.221.164:8000/play/a02g
-#EXTINF:-1,Redlight HD
-http://84.243.221.164:8000/play/a02f
 #EXTINF:-1,PINK O TV
 http://84.243.221.164:8000/play/a00u
 #EXTINF:-1,SCT
@@ -50,7 +44,8 @@ http://84.243.221.164:8000/play/a008
 http://84.243.221.164:8000/play/a00d
 #EXTINF:-1,CENTOXCENTO TV
 http://84.243.221.164:8000/play/a00c												
-				
+#EXTINF:-1,Penthouse 
+http://185.53.163.216:33112 			
 			
 			
 			
