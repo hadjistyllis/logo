@@ -26,16 +26,26 @@ https://www.youtube.com/watch?v=O4c2bOldxd0&t
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream playpath=sd.jasminchannel.stream swfUrl=http://flash.dditscdn.com/jsm2/3316/memberapplet/wowza/memberapplet.swf live=1 pageUrl=http://jasmin.com/pt/girl
 #EXTINF:-1,dp
 http://62.210.113.177:19000/udp/238.0.100.6:5000
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png", Miami TV
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1, Nuart
+http://78.111.176.132:8080
 #EXTINF:-1,Русская ночь
 http://78.111.176.132:8082
 #EXTINF:-1,Русская Ночь
 http://109.235.208.89:1212/udp/224.0.91.13:1234
 #EXTINF:-1,Hustler TV
 http://109.235.208.89:1212/udp/224.0.91.14:1234
+#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png", HustlerXXX (loop one)
+http://Tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/3841.ts
+#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png", RedlightX (loop one)
+http://Tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/5420.ts
 #EXTINF:-1,PRIVATE TV
 http://84.243.221.164:8000/play/a019
 #EXTINF:-1,PASSIONXXX
 http://84.243.221.164:8000/play/a00e
+#EXTINF:-1,PASSIE XXX
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1,PINK O TV
 http://84.243.221.164:8000/play/a00u
 #EXTINF:-1,SCT
@@ -50,7 +60,9 @@ http://84.243.221.164:8000/play/a00d
 http://84.243.221.164:8000/play/a00c												
 #EXTINF:-1,Penthouse 
 http://185.53.163.216:33112 			
-			
+#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png", SEXTATION
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+
 			
 			
 			
