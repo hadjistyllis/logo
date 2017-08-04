@@ -28,6 +28,10 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream playpath=sd.jasminchanne
 http://62.210.113.177:19000/udp/238.0.100.6:5000
 #EXTINF:-1,Русская ночь
 http://78.111.176.132:8082
+#EXTINF:-1,Русская Ночь
+http://109.235.208.89:1212/udp/224.0.91.13:1234
+#EXTINF:-1,Hustler TV
+http://109.235.208.89:1212/udp/224.0.91.14:1234
 #EXTINF:-1,PRIVATE TV
 http://84.243.221.164:8000/play/a019
 #EXTINF:-1,PASSIONXXX
