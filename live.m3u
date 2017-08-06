@@ -62,8 +62,8 @@ http://84.243.221.164:8000/play/a00c
 http://185.53.163.216:33112 			
 #EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png", SEXTATION
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
-
-			
+#EXTINF:-1,frenchlover
+http://91.211.143.214:3333/play/a006			
 			
 			
 		
