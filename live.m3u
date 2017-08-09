@@ -1,5 +1,32 @@
 #EXTM3U 
 
+#EXTINF:1 group-title="MESSAGE",
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,WARNING
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NEW APP UPDATE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,V1.10.
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,THIS VERSION 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,WILL EXPIRE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,10/8/17
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Download 
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NEW ONE
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,TUTORIAL VIDEO
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
