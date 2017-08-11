@@ -2,208 +2,43 @@
 
 #EXTINF:1 group-title="MESSAGE",
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,WARNING
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NEW APP UPDATE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,V1.10.
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,WARNING:
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,THIS VERSION 
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,WILL EXPIRE
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,EXPIRED.
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,10/8/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Please
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Download 
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NEW ONE
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NEW Version
+https://www.youtube.com/watch?v=O4c2bOldxd0&t
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,V1.10.
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,TUTORIAL VIDEO
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Press Check
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,OFFICIAL e-Doctor
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,for update
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,XXX LIVE LIST
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,at main
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Powered by e-Doctor
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,http://edoctorcy.xyz
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Menu
 https://www.youtube.com/watch?v=O4c2bOldxd0&t
 
 
 
 
 
-		
-#EXTINF:1 group-title="LIVE TV",
-
-#EXTINF:-1,Jasmin
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream playpath=sd.jasminchannel.stream swfUrl=http://flash.dditscdn.com/jsm2/3316/memberapplet/wowza/memberapplet.swf live=1 pageUrl=http://jasmin.com/pt/girl
-#EXTINF:-1,dp
-http://62.210.113.177:19000/udp/238.0.100.6:5000
-#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png", Miami TV
-http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1, Nuart
-http://78.111.176.132:8080
-#EXTINF:-1,Русская ночь
-http://78.111.176.132:8082
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png", HustlerXXX (loop one)
-http://Tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/3841.ts
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png", RedlightX (loop one)
-http://Tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/5420.ts
-#EXTINF:-1,PRIVATE TV
-http://84.243.221.164:8000/play/a019
-#EXTINF:-1,PASSIONXXX
-http://84.243.221.164:8000/play/a00e
-#EXTINF:-1,PASSIE XXX
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
-#EXTINF:-1,PINK O TV
-http://84.243.221.164:8000/play/a00u
-#EXTINF:-1,SCT
-http://84.243.221.164:8000/play/a00a
-#EXTINF:-1,Dorcel TV HD
-http://84.243.221.164:8000/play/a01p
-#EXTINF:-1,EvilAngelTV
-http://84.243.221.164:8000/play/a008
-#EXTINF:-1,SESTO SENSO TV
-http://84.243.221.164:8000/play/a00d
-#EXTINF:-1,CENTOXCENTO TV
-http://84.243.221.164:8000/play/a00c												
-#EXTINF:-1,Penthouse 
-http://185.53.163.216:33112 			
-#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png", SEXTATION
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
-#EXTINF:-1,frenchlover
-http://91.211.143.214:3333/play/a006			
-#EXTINF:-1, XYPLUS 
-http://185.53.163.216:12000/play/a01n/index.m3u8 
 
 
-
-
-
-
-
-			
-		
-#EXTINF:1 group-title="P2P TV",
-
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NOTE
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,ACESTREAM NEEDED.
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Choose Acestream
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,as player if
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,not open
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,automatically
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
-https://www.youtube.com/watch?v=O4c2bOldxd0&t
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
-https://www.youtube.com/watch?v=O4c2bOldxd0&t		
-			
-			
-		
-#EXTINF:-1,Нюарт Tv(erotic_18_plus)
-acestream://52fff8ec2e5e4a384bd67a16a08ef273a781b029
-#EXTINF:-1,Русская Ночь (erotic_18_plus)
-acestream://a0da74fcdf8c2fbf0aa5bb288d155884f2a4e456
-#EXTINF:-1,Brazzers TV (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1183_reg.acelive
-#EXTINF:-1,Brazzers TV Europe (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_540_reg.acelive
-#EXTINF:-1,Candy HD (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_16340.acelive
-#EXTINF:-1,CentoXCento TV (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1060_reg.acelive
-#EXTINF:-1,Exotica TV (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_919_reg.acelive
-#EXTINF:-1,FAP TV 2 (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1163_reg.acelive
-#EXTINF:-1,FAP TV 2 HD (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1209_reg.acelive
-#EXTINF:-1,FAP TV 3 (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1171_reg.acelive
-#EXTINF:-1,FAP TV 4 (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1173_reg.acelive
-#EXTINF:-1,FAP TV Amateur (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1175_reg.acelive
-#EXTINF:-1,FAP TV Anal (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1164_reg.acelive
-#EXTINF:-1,FAP TV BBW (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1177_reg.acelive
-#EXTINF:-1,FAP TV Compilation (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1181_reg.acelive
-#EXTINF:-1,FAP TV Gay (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1172_reg.acelive
-#EXTINF:-1,FAP TV Legal Porno (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1167_reg.acelive
-#EXTINF:-1,FAP TV Lesbian (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1179_reg.acelive
-#EXTINF:-1,FAP TV Older (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1168_reg.acelive
-#EXTINF:-1,FAP TV Parody (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1180_reg.acelive
-#EXTINF:-1,FAP TV Pissing (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1176_reg.acelive
-#EXTINF:-1,FAP TV Shemale (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1162_reg.acelive
-#EXTINF:-1,FAP TV Teaching (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1169_reg.acelive
-#EXTINF:-1,FAP TV Teens (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1178_reg.acelive
-#EXTINF:-1,FAP TV Trans (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1170_reg.acelive
-#EXTINF:-1,Hustler HD (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_607_reg.acelive
-#EXTINF:-1,Hustler TV (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_115_reg.acelive
-#EXTINF:-1,Jasmin TV (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_15231.acelive
-#EXTINF:-1,Nuart TV (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_634_reg.acelive
-#EXTINF:-1,O-la-la (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_826_reg.acelive
-#EXTINF:-1,PassionXXX (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1062_reg.acelive
-#EXTINF:-1,Phoenix Marie TV (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1166_reg.acelive
-#EXTINF:-1,Pink O TV (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_925_reg.acelive
-#EXTINF:-1,Playboy TV (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_383_reg.acelive
-#EXTINF:-1,Redlight HD (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_913_reg.acelive
-#EXTINF:-1,SCT (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_911_reg.acelive
-#EXTINF:-1,Satisfaction HD (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_924_reg.acelive
-#EXTINF:-1,Sextosenso (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_622_reg.acelive
-#EXTINF:-1,TGirls TV (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_1061_reg.acelive
-#EXTINF:-1,Visit-X HD (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_16528.acelive
-#EXTINF:-1,Искушение (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_659_reg.acelive
-#EXTINF:-1,Ночной клуб (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_528_reg.acelive
-#EXTINF:-1,Русская ночь (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_64_reg.acelive
-#EXTINF:-1,Эгоист ТВ (Эротика)
-http://super-pomoyka.us.to/trash/ttv-list/acelive/ttv_382_reg.acelive
