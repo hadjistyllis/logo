@@ -32,10 +32,6 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 http://78.111.176.132:8080
 #EXTINF:-1,Русская ночь
 http://78.111.176.132:8082
-#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2013/04/hustlertv.png", HustlerXXX (loop one)
-http://Tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/3841.ts
-#EXTINF:-1 tvg-logo="http://vercanalestv.com/imagenes/redlight.png", RedlightX (loop one)
-http://Tv.iptvsensation.com:6500/live/q0z01FyoIg/YlNLLYkecl/5420.ts
 #EXTINF:-1,PRIVATE TV
 http://84.243.221.164:8000/play/a019
 #EXTINF:-1,PASSIONXXX
