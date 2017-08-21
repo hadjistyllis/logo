@@ -32,6 +32,8 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 http://78.111.176.132:8080
 #EXTINF:-1,Русская ночь
 http://78.111.176.132:8082
+#EXTINF:-1,Passion XXX
+http://37.9.0.201:8888
 #EXTINF:-1,PASSIE XXX
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8											
 #EXTINF:-1,Penthouse 
