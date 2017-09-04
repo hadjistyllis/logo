@@ -48,7 +48,14 @@ http://185.53.163.216:33112
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 #EXTINF:-1,frenchlover
 http://91.211.143.214:3333/play/a006	
-
+#EXTINF:-1,SESTO SENSO TV
+http://84.243.221.164:8000/play/a02g
+#EXTINF:-1,PASSIONXXX
+http://84.243.221.164:8000/play/a02c
+#EXTINF:-1,EvilAngelTV
+http://84.243.221.164:8000/play/a02b
+#EXTINF:-1,Dorcel TV HD
+http://84.243.221.164:8000/play/a00w
 
 
 
