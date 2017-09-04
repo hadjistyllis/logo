@@ -56,9 +56,12 @@ http://84.243.221.164:8000/play/a02c
 http://84.243.221.164:8000/play/a02b
 #EXTINF:-1,Dorcel TV HD
 http://84.243.221.164:8000/play/a00w
-
-
-
+#EXTINF:-1,PINK O TV
+http://84.243.221.164:8000/play/a02d
+#EXTINF:-1,PRIVATE TV
+http://84.243.221.164:8000/play/a02p
+#EXTINF:-1,SCT
+http://84.243.221.164:8000/play/a02e
 
 
 
