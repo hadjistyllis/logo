@@ -28,10 +28,6 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream playpath=sd.jasminchanne
 http://62.210.113.177:19000/udp/238.0.100.6:5000
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png", Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1, Nuart
-http://78.111.176.132:8080
-#EXTINF:-1,Русская ночь
-http://78.111.176.132:8082
 #EXTINF:-1,Dusk 
 http://37.9.0.201:8890 
 #EXTINF:-1,XXX 
@@ -46,22 +42,10 @@ http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 http://185.53.163.216:33112 			
 #EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png", SEXTATION
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
-#EXTINF:-1,frenchlover
-http://91.211.143.214:3333/play/a006	
-#EXTINF:-1,SESTO SENSO TV
-http://84.243.221.164:8000/play/a02g
-#EXTINF:-1,PASSIONXXX
-http://84.243.221.164:8000/play/a02c
-#EXTINF:-1,EvilAngelTV
-http://84.243.221.164:8000/play/a02b
-#EXTINF:-1,Dorcel TV HD
-http://84.243.221.164:8000/play/a00w
-#EXTINF:-1,PINK O TV
-http://84.243.221.164:8000/play/a02d
-#EXTINF:-1,PRIVATE TV
-http://84.243.221.164:8000/play/a02p
-#EXTINF:-1,SCT
-http://84.243.221.164:8000/play/a02e
+
+
+
+
 
 
 
