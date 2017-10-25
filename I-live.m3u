@@ -181,6 +181,10 @@ acestream://a1d50b2c8a9d66645960020e48bc72e32d63dc8c
 acestream://c2afcf8f7aacce196f54b355ac242fef0938f7b3
 
 
+#EXTINF:-1 tvg-name="Нюарт_Tv" tvg-logo="Нюарт Tv.png",Нюарт Tv 
+acestream://8ed663beab3c1d90ec2eddcc9579d4952db4a66b
+#EXTINF:-1 tvg-name="Русская_Ночь" tvg-logo="Русская Ночь.png",Русская Ночь 
+acestream://7d89bfc38e717e3347ec2e6123447d62c6d29f8e
 
 
 
