@@ -38,8 +38,8 @@ http://37.9.0.201:8888
 http://185.53.163.216:33112 			
 #EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png", SEXTATION
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
-
-
+#EXTINF:-1,Playboy
+http://188.62.240.200:9000/play/a02k
 
 
 
