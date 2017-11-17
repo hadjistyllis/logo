@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 #EXTINF:1 group-title="LIVE TV",
 
 #EXTINF:-1,Jasmin
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream playpath=sd.jasminchannel.stream swfUrl=http://flash.dditscdn.com/jsm2/3316/memberapplet/wowza/memberapplet.swf live=1 pageUrl=http://jasmin.com/pt/girl
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream 
 #EXTINF:-1,dp
 http://62.210.113.177:19000/udp/238.0.100.6:5000
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png", Miami TV
@@ -34,13 +34,10 @@ http://37.9.0.201:8889
 http://37.9.0.201:8811 
 #EXTINF:-1,Passion XXX 
 http://37.9.0.201:8888										
-#EXTINF:-1,Penthouse 
-http://185.53.163.216:33112 			
-#EXTINF:-1 tvg-logo="http://totaltv.tv/oec/images/tv_channels/bdc6d5c54bd382de621a6c1ec682ff89.png", SEXTATION
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
-#EXTINF:-1,Playboy
-http://188.62.240.200:9000/play/a02k
-
+#EXTINF:-1,BRAZZERS TV 18+ 
+http://109.248.90.135:3371/udp/239.195.2.4:1234 
+#EXTINF:-1,BRAZZERS TV 18+ 
+http://109.248.91.21:3371/udp/239.195.2.4:1234 
 
 
 
