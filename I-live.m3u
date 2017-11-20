@@ -24,6 +24,8 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream 
 #EXTINF:-1,dp
 http://62.210.113.177:19000/udp/238.0.100.6:5000
+#EXTINF:-1,РУССКАЯ НОЧЬ 
+http://93.91.113.8:9999/play/a07r 
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png", Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1,Dusk 
@@ -34,17 +36,24 @@ http://37.9.0.201:8889
 http://37.9.0.201:8811 
 #EXTINF:-1,Passion XXX 
 http://37.9.0.201:8888										
-#EXTINF:-1,BRAZZERS TV 18+ 
-http://109.248.90.135:3371/udp/239.195.2.4:1234 
-#EXTINF:-1,BRAZZERS TV 18+ 
-http://109.248.91.21:3371/udp/239.195.2.4:1234 
+#EXTINF:-1,Brazzers TV Europe 
+http://176.103.193.193:8011/316 
 #EXTINF:-1,Brazzers TV Europe 
 http://93.91.113.8:9999/play/a07s
-
-
-
-			
+#EXTINF:-1,PLAYBOY TV 
+http://93.91.113.8:9999/play/a07t 
+#EXTINF:-1,PLAYBOY TV 
+http://178.156.79.1:9090/play/a00w 
+#EXTINF:-1, Ovr 18
+http://playlist.prg09.v-ip-tv.com/atip/05eff8af2c9811881571e0e9bd243eeb/231/channel-15/0/512.m3u8
+#EXTINF:-1, XXX Adult 80 (+18) 
+http://playlist.prg09.v-ip-tv.com/atip/2c899c93153f3acae05651afbffad3a5/1506693147727/channel-80/1/512.m3u8	
+#EXTINF:-1, Dollhouse Back [+18] 
+http://playlist.prg09.v-ip-tv.com/atip/a232679d2e2529cf8c88a46389b2dd84/1506693452661/channel-71/1/515.m3u8
+#EXTINF:-1, Bla 
+http://playlist.prg09.v-ip-tv.com/atip/c7d3bca2c1c4133f1fb061095ba4d754/21/channel-16/0/512.m3u8
 		
+	
 
 
 
