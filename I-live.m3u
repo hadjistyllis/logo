@@ -56,7 +56,8 @@ http://playlist.prg09.v-ip-tv.com/atip/2c899c93153f3acae05651afbffad3a5/15066931
 http://playlist.prg09.v-ip-tv.com/atip/a232679d2e2529cf8c88a46389b2dd84/1506693452661/channel-71/1/515.m3u8
 #EXTINF:-1, Bla 
 http://playlist.prg09.v-ip-tv.com/atip/c7d3bca2c1c4133f1fb061095ba4d754/21/channel-16/0/512.m3u8
-		
+#EXTINF:-1 tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" , Visit-X Tv 720P
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?MWINFO		
 	
 
 
