@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Updated
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,28/11/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,07/12/17
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
@@ -32,8 +32,6 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:-1,Jasmin
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream 
-#EXTINF:-1,dp
-http://62.210.113.177:19000/udp/238.0.100.6:5000
 #EXTINF:-1,РУССКАЯ НОЧЬ 
 http://93.91.113.8:9999/play/a07r 
 #EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png", Miami TV
@@ -46,8 +44,6 @@ http://37.9.0.201:8889
 http://37.9.0.201:8811 
 #EXTINF:-1,Passion XXX 
 http://37.9.0.201:8888										
-#EXTINF:-1,Brazzers TV Europe 
-http://176.103.193.193:8011/316 
 #EXTINF:-1,Brazzers TV Europe 
 http://93.91.113.8:9999/play/a07s
 #EXTINF:-1,PLAYBOY TV 
@@ -101,29 +97,37 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8		
 			
 #EXTINF:-1 tvg-name="Babestation" tvg-logo="Babestation.png",Babestation 
-acestream://248fec7abd27b5e05f0615b5522c8affad6c0af1
+acestream://a61f24a27bb7ca713b584d462e9893e4ed25a1a3
+#EXTINF:-1 tvg-name="Blue_Hustler" tvg-logo="Blue Hustler.png",Blue Hustler 
+acestream://83f5e07dfeee1f4790c70d65735d70a84ae003ea
 #EXTINF:-1 tvg-name="Brazzers_TV" tvg-logo="Brazzers TV.png",Brazzers TV 
-acestream://a66f3a207348b3951ec68f5212baa32ec25cd146
+acestream://a8b3753893575934464b7d72a7c7105e9dd2c04b
 #EXTINF:-1 tvg-name="Brazzers_TV_Europe" tvg-logo="Brazzers TV Europe.png",Brazzers TV Europe 
-acestream://3e59d8ec5872bb5360fce86b9f4068f88ccc3d39
+acestream://6d2ad375d95d741fd7c70934edefa5e02d3b9cbf
+#EXTINF:-1 tvg-name="Candyman_HD" tvg-logo="Candyman HD.png",Candyman HD 
+acestream://0cca92816bf46e0fcf07056da7a8f6749f82d4b4
 #EXTINF:-1 tvg-name="CentoXCento_TV" tvg-logo="CentoXCento TV.png",CentoXCento TV 
 acestream://37df65ff53802a0b93cc28222e7c0bdbc770369f
+#EXTINF:-1 tvg-name="Dorcel_TV_НD" tvg-logo="Dorcel TV НD.png",Dorcel TV НD 
+acestream://53780778645918a3d97cbec7d07c743301300af0
 #EXTINF:-1 tvg-name="Dream_Porn_HD" tvg-logo="Dream Porn HD.png",Dream Porn HD 
 acestream://403d1cb1972643e4789736dafdb7053947566d46
 #EXTINF:-1 tvg-name="Dusk_TV" tvg-logo="Dusk TV.png",Dusk TV 
 acestream://6c328b898a068b9304348416af3807611b6f5a7a
+#EXTINF:-1 tvg-name="EROX_HD" tvg-logo="EROX HD.png",EROX HD 
+acestream://5ca9c326316cf19ab17832a0d349bd3bced415e6
 #EXTINF:-1 tvg-name="EvilAngel" tvg-logo="EvilAngel.png",EvilAngel 
 acestream://b7bfa58b0d72dcecd6b10fdeca23804707fde348
 #EXTINF:-1 tvg-name="FAP_TV_2" tvg-logo="FAP TV 2.png",FAP TV 2 
-acestream://ccd2989507a3c8cf0e149b48474da0169460aa85
+acestream://a17d8ec0a28e79e514ef59d2a367d5018591b589
 #EXTINF:-1 tvg-name="FAP_TV_2_HD" tvg-logo="FAP TV 2 HD.png",FAP TV 2 HD 
 acestream://4797f465cc7ca400a934ca7c6d4f5f7420f87b8e
 #EXTINF:-1 tvg-name="FAP_TV_3" tvg-logo="FAP TV 3.png",FAP TV 3 
 acestream://ddcb59c4ae2e2d605c9807a3127e81422801bffa
 #EXTINF:-1 tvg-name="FAP_TV_4" tvg-logo="FAP TV 4.png",FAP TV 4 
-acestream://568f1a8b3745ea3c3e56fb58bdffa965d8b9b834
+acestream://9b0028b18ec51edfa5299a013a9d9829b1486622
 #EXTINF:-1 tvg-name="FAP_TV_Amateur" tvg-logo="FAP TV Amateur.png",FAP TV Amateur 
-acestream://b2634aa351437da98b624d5cfa7357c49fd17bf6
+acestream://f106f8ce13bcc01cc24ed434f6caad250343997c
 #EXTINF:-1 tvg-name="FAP_TV_Anal" tvg-logo="FAP TV Anal.png",FAP TV Anal 
 acestream://34c32fd5ea10d61b4723916a1336fdd7a61520d5
 #EXTINF:-1 tvg-name="FAP_TV_BBW" tvg-logo="FAP TV BBW.png",FAP TV BBW 
@@ -151,19 +155,19 @@ acestream://b57a3db90e1e3d2e80b1a81c4718ee534a4344a1
 #EXTINF:-1 tvg-name="FAP_TV_Trans" tvg-logo="FAP TV Trans.png",FAP TV Trans 
 acestream://3771e49f5879d8a5308a1290d27d33690558daad
 #EXTINF:-1 tvg-name="FAP_TV_UHD_4K" tvg-logo="FAP TV UHD 4K.png",FAP TV UHD 4K 
-acestream://5f8538333b9849d2aaffbdd3a65630709b6cfd32
+acestream://0c26788dab82cf1747eedd2af6cc335786d68356
 #EXTINF:-1 tvg-name="Hustler_HD" tvg-logo="Hustler HD.png",Hustler HD 
-acestream://4ffff4a0daac6e31ec9391a815a0f7aee6b432a4
-#EXTINF:-1 tvg-name="Hustler_TV" tvg-logo="Hustler TV.png",Hustler TV 
-acestream://83f5e07dfeee1f4790c70d65735d70a84ae003ea
+acestream://030e5299e2ad2597bcbdc95d6503869c178bb421
+#EXTINF:-1 tvg-name="Hustler_TV_Europe_(24h)" tvg-logo="Hustler TV Europe (24h).png",Hustler TV Europe (24h) 
+acestream://f2ad98a646eb358c11b9875f70d463b404ff4dba
 #EXTINF:-1 tvg-name="Jasmin_TV" tvg-logo="Jasmin TV.png",Jasmin TV 
 acestream://114e10f9fad02cb5409d7c6861925416c07f21a4
 #EXTINF:-1 tvg-name="NUART_TV_HD" tvg-logo="NUART TV HD.png",NUART TV HD 
 acestream://7f28167b31f45c5aa679a3784e4f348408e72ab7
 #EXTINF:-1 tvg-name="Nuart_TV" tvg-logo="Nuart TV.png",Nuart TV 
-acestream://72926490b280b2cf8af3366ce663927a6db7c7d9
+acestream://b0b53b3c8fbd6bb2604cfef67996ed78064b950c
 #EXTINF:-1 tvg-name="O-la-la" tvg-logo="O-la-la.png",O-la-la 
-acestream://e170e7c363b89d9421c345619436bf047ec7128b
+acestream://9f2a54990e1753eb07e57ed4720f65815147f4cf
 #EXTINF:-1 tvg-name="PassionXXX" tvg-logo="PassionXXX.png",PassionXXX 
 acestream://7e29ebae5e7ee555d1db26227780deb56e9c9e89
 #EXTINF:-1 tvg-name="Phoenix_Marie_TV" tvg-logo="Phoenix Marie TV.png",Phoenix Marie TV 
@@ -173,23 +177,46 @@ acestream://f59fa4a5689a7a5b1dabfb8cafd6f0680b5f39d1
 #EXTINF:-1 tvg-name="Playboy_TV" tvg-logo="Playboy TV.png",Playboy TV 
 acestream://3423a8d8e7c24fb5be43c04ac923c4b673f85e70
 #EXTINF:-1 tvg-name="Redlight_HD" tvg-logo="Redlight HD.png",Redlight HD 
-acestream://5fe31b227559fd3a36b3b6bfb0504ec77eede928
+acestream://b71e41e8517d26a49bc183569efded60f44e3c79
 #EXTINF:-1 tvg-name="SCT" tvg-logo="SCT.png",SCT 
 acestream://adb798748d7c20e45d2796104edebf9d832580a8
 #EXTINF:-1 tvg-name="Satisfaction_HD" tvg-logo="Satisfaction HD.png",Satisfaction HD 
-acestream://18cb02d48df965509f6761204db228aa6143d4d3
+acestream://8d077e4e81f3652ff22c8a7be687223d57ddee8f
 #EXTINF:-1 tvg-name="Sextosenso" tvg-logo="Sextosenso.png",Sextosenso 
-acestream://0b04a975c54de9a4f1c6f68c1263f8c860a94463
+acestream://e81da01cc922d685900a60df11b8ba78718fd1d2
 #EXTINF:-1 tvg-name="Visit-X_HD" tvg-logo="Visit-X HD.png",Visit-X HD 
 acestream://9066a6ad322f9679391edf654bb61b67afb3338c
 #EXTINF:-1 tvg-name="Ночной_клуб" tvg-logo="Ночной клуб.png",Ночной клуб 
-acestream://e14abbb5f712444c4f52458b02d6c685cbb2a810
+acestream://5a5c34289d636e61d112aee075cb67eafb95c710
 #EXTINF:-1 tvg-name="Русская_ночь" tvg-logo="Русская ночь.png",Русская ночь 
 acestream://699e0b1d6aa845e1a8aafefe9c1041d31e077882
 #EXTINF:-1 tvg-name="Эгоист_ТВ" tvg-logo="Эгоист ТВ.png",Эгоист ТВ 
 acestream://48a00d60f187007ae1540091828db53ec6982ca6
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:1 group-title="P2P TV2",
 
 #EXTINF:-1 tvg-name="Нюарт_Tv" tvg-logo="Нюарт Tv.png",Nuart Tv 
 acestream://8ed663beab3c1d90ec2eddcc9579d4952db4a66b
@@ -210,7 +237,7 @@ acestream://7d89bfc38e717e3347ec2e6123447d62c6d29f8e
 
 
 
-#EXTINF:1 group-title="P2P TV2",
+#EXTINF:1 group-title="P2P TV3",
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NOTE
 https://www.youtube.com/watch?v=t4RRga0RUr8
