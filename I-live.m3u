@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Updated
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,22/12/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,24/12/17
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
@@ -154,19 +154,23 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8		
 			
 #EXTINF:-1 tvg-name="Babestation" tvg-logo="Babestation.png",Babestation 
-acestream://0243cff60b5c6e7fe7a0f613edd7dc1fa0507161
+acestream://7c7b9f6cfc5df8516bfe20288e4f822b28bc9b34
+#EXTINF:-1 tvg-name="Barely_Legal_TV" tvg-logo="Barely Legal TV.png",Barely Legal TV 
+acestream://26f9a6c8b1fc2f876330d428fc399dc248e4c7d8
 #EXTINF:-1 tvg-name="Blue_Hustler" tvg-logo="Blue Hustler.png",Blue Hustler 
 acestream://413b7a7d038f2a5313d360c279e297a250567280
 #EXTINF:-1 tvg-name="Brazzers_TV" tvg-logo="Brazzers TV.png",Brazzers TV 
 acestream://9433f6e52e59e15da3b90b9cd9f16446e2d3c44c
 #EXTINF:-1 tvg-name="Brazzers_TV_Europe" tvg-logo="Brazzers TV Europe.png",Brazzers TV Europe 
-acestream://27c10c4121440de2868b91d26e13615115392771
+acestream://df66f649c8bbec990cf893ae514e06491fdc7ff9
 #EXTINF:-1 tvg-name="Candy_HD" tvg-logo="Candy HD.png",Candy HD 
 acestream://5c95a7d2aba5c4decfcf2f6b16843d8ee4f7718e
 #EXTINF:-1 tvg-name="Candyman_HD" tvg-logo="Candyman HD.png",Candyman HD 
 acestream://0cca92816bf46e0fcf07056da7a8f6749f82d4b4
 #EXTINF:-1 tvg-name="CentoXCento_TV" tvg-logo="CentoXCento TV.png",CentoXCento TV 
 acestream://01e5476291d1bb1e1e9cbd91fa67e1fddf0f98d5
+#EXTINF:-1 tvg-name="Dorcel_ТV_HD" tvg-logo="Dorcel ТV HD.png",Dorcel ТV HD 
+acestream://375030320e9b6bae0cf8d4b978de7c42005c02d5
 #EXTINF:-1 tvg-name="Dusk_TV" tvg-logo="Dusk TV.png",Dusk TV 
 acestream://d7fdae511faede8c0cdeee80db6906112df00282
 #EXTINF:-1 tvg-name="EROX_HD" tvg-logo="EROX HD.png",EROX HD 
@@ -210,19 +214,17 @@ acestream://81a5a0ce3da66e928adb60c632423ecfcbdf3e18
 #EXTINF:-1 tvg-name="FAP_TV_Trans" tvg-logo="FAP TV Trans.png",FAP TV Trans 
 acestream://6277e3285ca4c3605484eab03d14ef7599a96b49
 #EXTINF:-1 tvg-name="FAP_TV_UHD_4K" tvg-logo="FAP TV UHD 4K.png",FAP TV UHD 4K 
-acestream://e5309870f72657d156dfdaee46c11baa29a7ccee
+acestream://03454f508d77459744b537f47fcca2d9885e7dfa
 #EXTINF:-1 tvg-name="Hustler_HD" tvg-logo="Hustler HD.png",Hustler HD 
-acestream://29c7bd2df39d384937505662bf1176923b12b09e
-#EXTINF:-1 tvg-name="Hustler_TV_Europe_(24h)" tvg-logo="Hustler TV Europe (24h).png",Hustler TV Europe (24h) 
-acestream://f2ad98a646eb358c11b9875f70d463b404ff4dba
+acestream://6b0c461672feb6686eb62a71fcf6e36634dff520
 #EXTINF:-1 tvg-name="Jasmin_TV" tvg-logo="Jasmin TV.png",Jasmin TV 
 acestream://114e10f9fad02cb5409d7c6861925416c07f21a4
 #EXTINF:-1 tvg-name="NUART_TV_HD" tvg-logo="NUART TV HD.png",NUART TV HD 
 acestream://7f28167b31f45c5aa679a3784e4f348408e72ab7
 #EXTINF:-1 tvg-name="Nuart_TV" tvg-logo="Nuart TV.png",Nuart TV 
-acestream://410d53c0013708eb991ecf6a976dc92bd5b3ef96
+acestream://51e71fe6c78800b5b62795d7df7c0fb6ef6aea2f
 #EXTINF:-1 tvg-name="O-la-la" tvg-logo="O-la-la.png",O-la-la 
-acestream://5ef68c8e20de5777a1d9c8abb2e96680fbcd9c3e
+acestream://42510b535b51d6ca35cd10a8c49ab61189bf4ceb
 #EXTINF:-1 tvg-name="PassionXXX" tvg-logo="PassionXXX.png",PassionXXX 
 acestream://6a7f34146faba09853ef226275742541abd60398
 #EXTINF:-1 tvg-name="Phoenix_Marie_TV" tvg-logo="Phoenix Marie TV.png",Phoenix Marie TV 
@@ -231,20 +233,20 @@ acestream://e2606ebab130820b59caacb66558e832ec00644c
 acestream://afc265bc1bd3a9e66e99e20545e2538c49163271
 #EXTINF:-1 tvg-name="Playboy_TV" tvg-logo="Playboy TV.png",Playboy TV 
 acestream://c8fab9ca50f5d0c0fc4ace526216851c40f182ad
-#EXTINF:-1 tvg-name="Private_TV_!" tvg-logo="Private TV !.png",Private TV ! 
-acestream://a70264180f6bbab2e3fa9af4a7b8bd666eff01de
+#EXTINF:-1 tvg-name="Private_TV" tvg-logo="Private TV.png",Private TV 
+acestream://395f50c85fe73efbad621f3d5cde077cbf8146aa
 #EXTINF:-1 tvg-name="Redlight_HD" tvg-logo="Redlight HD.png",Redlight HD 
-acestream://a2f1fd1e35e017bcc66d7a32df9d795b9e95a40c
+acestream://e5c63d9cf4b1ca26856f44970929f12c6543bd43
 #EXTINF:-1 tvg-name="SCT" tvg-logo="SCT.png",SCT 
 acestream://06c9d7956d980c467140ce31d85d083b02c2d1d2
 #EXTINF:-1 tvg-name="Satisfaction_HD" tvg-logo="Satisfaction HD.png",Satisfaction HD 
-acestream://ae0126be4a4e0bf66346098ae3b6de7c9d2ad871
+acestream://293e718c02578372536317b8e1975a697e69d72f
 #EXTINF:-1 tvg-name="Sextosenso" tvg-logo="Sextosenso.png",Sextosenso 
-acestream://86fa02f0beac7093cd824d3a8eeb8e954cd2d1ef
+acestream://a30cf5a6e19a183f531f84d2c390aa3433a78eaa
 #EXTINF:-1 tvg-name="Visit-X_HD" tvg-logo="Visit-X HD.png",Visit-X HD 
 acestream://9066a6ad322f9679391edf654bb61b67afb3338c
 #EXTINF:-1 tvg-name="Ночной_клуб" tvg-logo="Ночной клуб.png",Ночной клуб 
-acestream://0bfea6a269fb421db90785c3f3a13e49ebe7277b
+acestream://d089f6d17d13c809c1e2a5f6ca3b76bf34c678fe
 #EXTINF:-1 tvg-name="Русская_ночь" tvg-logo="Русская ночь.png",Русская ночь 
 acestream://59f5f7934c75d3bf60d7876bafdc8a798ea425b4
 #EXTINF:-1 tvg-name="Эгоист_ТВ" tvg-logo="Эгоист ТВ.png",Эгоист ТВ 
@@ -274,7 +276,25 @@ acestream://6046cf33cddd917877bd8412da516a281e3d7028
 
 
 
+
 #EXTINF:1 group-title="P2P TV2",
+
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,NOTE
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,ACESTREAM NEEDED.
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Choose Acestream
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,as player if
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,not open
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,automatically
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
+https://www.youtube.com/watch?v=t4RRga0RUr8
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,
+https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:-1 tvg-name="Нюарт_Tv" tvg-logo="Нюарт Tv.png",Nuart Tv 
 acestream://8ed663beab3c1d90ec2eddcc9579d4952db4a66b
