@@ -1,4 +1,4 @@
-#EXTM3U 
+14#EXTM3U 
 
 #EXTINF:1 group-title="e-Doctor",
 
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 
 #EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,Updated
 https://www.youtube.com/watch?v=t4RRga0RUr8
-#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,07/01/17
+#EXTINF:-1 tvg-logo=https://goo.gl/eimzf3 ,14/01/17
 https://www.youtube.com/watch?v=t4RRga0RUr8
 
 
@@ -118,7 +118,7 @@ https://www.youtube.com/watch?v=t4RRga0RUr8
 https://www.youtube.com/watch?v=t4RRga0RUr8		
 			
 #EXTINF:-1 tvg-name="Babestation" tvg-logo="Babestation.png",Babestation 
-acestream://78da26cc9a6fdd89daeab7a341ec2b903a6a462d
+acestream://7402242dc4b71377b8d3ef339d8a6f44c7eb96a6
 #EXTINF:-1 tvg-name="Barely_Legal_TV" tvg-logo="Barely Legal TV.png",Barely Legal TV 
 acestream://3cef719c4b14fd8d82a2674cdf881578ecd94dac
 #EXTINF:-1 tvg-name="Blue_Hustler" tvg-logo="Blue Hustler.png",Blue Hustler 
@@ -126,15 +126,11 @@ acestream://413b7a7d038f2a5313d360c279e297a250567280
 #EXTINF:-1 tvg-name="Brazzers_TV" tvg-logo="Brazzers TV.png",Brazzers TV 
 acestream://9433f6e52e59e15da3b90b9cd9f16446e2d3c44c
 #EXTINF:-1 tvg-name="Brazzers_TV_Europe" tvg-logo="Brazzers TV Europe.png",Brazzers TV Europe 
-acestream://355216484b9ecd7ac4d7e33b00ef9eec83640ba9
-#EXTINF:-1 tvg-name="Candy_HD" tvg-logo="Candy HD.png",Candy HD 
-acestream://c77bd2097f707a76e76843dc6132cb0aa4329697
+acestream://621ac458839d44d9105140464a779e562a401b36
 #EXTINF:-1 tvg-name="CentoXCento_TV" tvg-logo="CentoXCento TV.png",CentoXCento TV 
 acestream://01e5476291d1bb1e1e9cbd91fa67e1fddf0f98d5
 #EXTINF:-1 tvg-name="Dusk_TV" tvg-logo="Dusk TV.png",Dusk TV 
 acestream://d7fdae511faede8c0cdeee80db6906112df00282
-#EXTINF:-1 tvg-name="Erox" tvg-logo="Erox.png",Erox 
-acestream://9e828d140589f14b12c864ef46d93604e01abbd6
 #EXTINF:-1 tvg-name="EvilAngel" tvg-logo="EvilAngel.png",EvilAngel 
 acestream://91d65b18d0dd6c4f1c39fcdf391cb41cf0300c13
 #EXTINF:-1 tvg-name="FAP_TV_2" tvg-logo="FAP TV 2.png",FAP TV 2 
@@ -174,17 +170,17 @@ acestream://81a5a0ce3da66e928adb60c632423ecfcbdf3e18
 #EXTINF:-1 tvg-name="FAP_TV_Trans" tvg-logo="FAP TV Trans.png",FAP TV Trans 
 acestream://6277e3285ca4c3605484eab03d14ef7599a96b49
 #EXTINF:-1 tvg-name="FAP_TV_UHD_4K" tvg-logo="FAP TV UHD 4K.png",FAP TV UHD 4K 
-acestream://f266fbadc1e04749915efd6411e30b4045e9a1be
+acestream://21b02df6f8cf3d88a007029a3670fb1fd12663d8
 #EXTINF:-1 tvg-name="Hustler_HD" tvg-logo="Hustler HD.png",Hustler HD 
-acestream://318d64ad075027066963c866fe6528e6e272b462
+acestream://2aed243dc2644f817b85123f59a02c982ede9ae6
 #EXTINF:-1 tvg-name="Hustlеr_TV_Europе" tvg-logo="Hustlеr TV Europе.png",Hustlеr TV Europе 
 acestream://4f8765198e7ec2316dd2f044597b36e7ebbe8b48
 #EXTINF:-1 tvg-name="Jasmin_TV" tvg-logo="Jasmin TV.png",Jasmin TV 
 acestream://114e10f9fad02cb5409d7c6861925416c07f21a4
 #EXTINF:-1 tvg-name="Nuart_TV" tvg-logo="Nuart TV.png",Nuart TV 
-acestream://571ae532dd70e357a3e88b8fd3d8fe834a3a85d3
+acestream://fd2e58541695083b7c5ec93cae7ab02b01024b48
 #EXTINF:-1 tvg-name="O-la-la" tvg-logo="O-la-la.png",O-la-la 
-acestream://79ac78d8c9e9d3fb30afbef2ed4396a3b4201a7c
+acestream://5a55f41184e248cef341a2fd5197daa3baa24dfd
 #EXTINF:-1 tvg-name="PassionXXX" tvg-logo="PassionXXX.png",PassionXXX 
 acestream://6a7f34146faba09853ef226275742541abd60398
 #EXTINF:-1 tvg-name="Phoenix_Marie_TV" tvg-logo="Phoenix Marie TV.png",Phoenix Marie TV 
@@ -198,21 +194,23 @@ acestream://b267fca7fa76c6c506640251d3e1434dbb222884
 #EXTINF:-1 tvg-name="Reality_Kings_TV" tvg-logo="Reality Kings TV.png",Reality Kings TV 
 acestream://50f9bf55ad55ac1a1c0911bddb00b6d3c5b16c25
 #EXTINF:-1 tvg-name="Redlight_HD" tvg-logo="Redlight HD.png",Redlight HD 
-acestream://74579f418986a5c458f0830921ba165afc484620
+acestream://4999b22fb67d3ed7972a722f84d3c1bab672593e
 #EXTINF:-1 tvg-name="SCT" tvg-logo="SCT.png",SCT 
 acestream://06c9d7956d980c467140ce31d85d083b02c2d1d2
 #EXTINF:-1 tvg-name="Satisfaction_HD" tvg-logo="Satisfaction HD.png",Satisfaction HD 
-acestream://587ffd1ee27f5c3397ee1bd83374faeef59facfb
+acestream://d3669a08f83ad808e95fc96d7522a87a9a670ccb
 #EXTINF:-1 tvg-name="Sextosenso" tvg-logo="Sextosenso.png",Sextosenso 
-acestream://6a3b684d1cb5fa0d1c15dbfc812672aad6a4f54b
+acestream://c3080abc4da724d2393f2d8adcad8f696b07feee
 #EXTINF:-1 tvg-name="Visit-X_HD" tvg-logo="Visit-X HD.png",Visit-X HD 
 acestream://9066a6ad322f9679391edf654bb61b67afb3338c
 #EXTINF:-1 tvg-name="Ночной_клуб" tvg-logo="Ночной клуб.png",Ночной клуб 
-acestream://01e49452b5b04b51c88861b96cb58739ea717dd6
+acestream://f6db140fd04ed8e3260959c0d0b7b84e646cb16b
 #EXTINF:-1 tvg-name="Русская_ночь" tvg-logo="Русская ночь.png",Русская ночь 
 acestream://59f5f7934c75d3bf60d7876bafdc8a798ea425b4
 #EXTINF:-1 tvg-name="Эгоист_ТВ" tvg-logo="Эгоист ТВ.png",Эгоист ТВ 
 acestream://6046cf33cddd917877bd8412da516a281e3d7028
+
+
 
 
 
